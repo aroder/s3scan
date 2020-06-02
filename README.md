@@ -22,7 +22,7 @@ Where the output format can be either 'text' or 'csv'
 Requirements
 ============
 
-Python 2.6+
+Python 3.8+
 http://python.org
 
 Boto3 Library
