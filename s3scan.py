@@ -149,6 +149,6 @@ if __name__ == '__main__':
         bucket = buckets[key]
 
         if options.format == 'csv':
-            print csvFormat(bucket)
+            print(csvFormat(bucket))
         else:
-            print textFormat(bucket, maxName)
+            print(textFormat(bucket, maxName))
